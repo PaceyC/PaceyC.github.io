@@ -1,0 +1,8 @@
+cd /d D:\github
+mkdir junit5
+git clone --bare https://github.com/junit-team/junit5.git junit5/.git
+
+mv .\junit5-master\* junit5
+
+cd junit5
+git init
