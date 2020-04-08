@@ -1,42 +1,42 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5f205b3a-73c2-472c-b052-82b95bdf36b7/deploy-status)](https://app.netlify.com/sites/sleepy-bhabha-00eedf/deploys)
 
-# Jekflix Template
+# PaceyC Template
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+![PaceyC Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/PaceyC-logo_mfngps.png)
 
-See the [demo here](https://jekflix.rossener.com/).
+See the [demo here](https://PaceyC.rossener.com/).
 
 ## What is it?
 
 A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
 
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+![PaceyC Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/PaceyC-screenshot-2_zfiog2.jpg)
 
 ## Features
 
-- [Live Search](https://github.com/thiagorossener/jekflix-template/wiki/Features#live-search)
-- [Estimated Reading Time](https://github.com/thiagorossener/jekflix-template/wiki/Features#estimated-reading-time)
-- [Reading Progress Bar](https://github.com/thiagorossener/jekflix-template/wiki/Features#reading-progress-bar) *(optional)*
-- ["New Post" tag](https://github.com/thiagorossener/jekflix-template/wiki/Features#new-post-tag)
-- [Load images on demand](https://github.com/thiagorossener/jekflix-template/wiki/Features#load-images-on-demand)
-- [Push Menu](https://github.com/thiagorossener/jekflix-template/wiki/Features#push-menu)
-- [SVG icons](https://github.com/thiagorossener/jekflix-template/wiki/Features#svg-icons)
-- [Shell script to create posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#shell-script-to-create-posts)
-- [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/Features#tags-page)
-- [About page](https://github.com/thiagorossener/jekflix-template/wiki/Features#about-page)
-- [Contact page](https://github.com/thiagorossener/jekflix-template/wiki/Features#contact-page)
-- [404 error page](https://github.com/thiagorossener/jekflix-template/wiki/Features#404-error-page)
-- [Feed RSS](https://github.com/thiagorossener/jekflix-template/wiki/Features#feed-rss)
-- [Disqus](https://github.com/thiagorossener/jekflix-template/wiki/Features#disqus) *(optional)*
-- [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/Features#featured-post) *(optional)*
-- [Home page pagination](https://github.com/thiagorossener/jekflix-template/wiki/Features#home-page-pagination) *(optional)*
-- [Posts sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar) *(optional)*
-- [Paginated posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#paginated-posts) *(optional)*
-- ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/Features#before-you-go-modal) *(optional)*
-- [Post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/Features#post-recommendation)
-- [Netlify CMS ready](https://github.com/thiagorossener/jekflix-template/wiki/Features#netlify-cms-ready)
-- [Translations](https://github.com/thiagorossener/jekflix-template/wiki/setup#translations) **new!**
-- [Math Expressions](https://github.com/thiagorossener/jekflix-template/wiki/Features#math-expressions) *(optional)* **new!**
+- [Live Search](https://github.com/thiagorossener/PaceyC-template/wiki/Features#live-search)
+- [Estimated Reading Time](https://github.com/thiagorossener/PaceyC-template/wiki/Features#estimated-reading-time)
+- [Reading Progress Bar](https://github.com/thiagorossener/PaceyC-template/wiki/Features#reading-progress-bar) *(optional)*
+- ["New Post" tag](https://github.com/thiagorossener/PaceyC-template/wiki/Features#new-post-tag)
+- [Load images on demand](https://github.com/thiagorossener/PaceyC-template/wiki/Features#load-images-on-demand)
+- [Push Menu](https://github.com/thiagorossener/PaceyC-template/wiki/Features#push-menu)
+- [SVG icons](https://github.com/thiagorossener/PaceyC-template/wiki/Features#svg-icons)
+- [Shell script to create posts](https://github.com/thiagorossener/PaceyC-template/wiki/Features#shell-script-to-create-posts)
+- [Tags page](https://github.com/thiagorossener/PaceyC-template/wiki/Features#tags-page)
+- [About page](https://github.com/thiagorossener/PaceyC-template/wiki/Features#about-page)
+- [Contact page](https://github.com/thiagorossener/PaceyC-template/wiki/Features#contact-page)
+- [404 error page](https://github.com/thiagorossener/PaceyC-template/wiki/Features#404-error-page)
+- [Feed RSS](https://github.com/thiagorossener/PaceyC-template/wiki/Features#feed-rss)
+- [Disqus](https://github.com/thiagorossener/PaceyC-template/wiki/Features#disqus) *(optional)*
+- [Featured post](https://github.com/thiagorossener/PaceyC-template/wiki/Features#featured-post) *(optional)*
+- [Home page pagination](https://github.com/thiagorossener/PaceyC-template/wiki/Features#home-page-pagination) *(optional)*
+- [Posts sidebar](https://github.com/thiagorossener/PaceyC-template/wiki/Features#posts-sidebar) *(optional)*
+- [Paginated posts](https://github.com/thiagorossener/PaceyC-template/wiki/Features#paginated-posts) *(optional)*
+- ["Before you go" modal](https://github.com/thiagorossener/PaceyC-template/wiki/Features#before-you-go-modal) *(optional)*
+- [Post recommendation](https://github.com/thiagorossener/PaceyC-template/wiki/Features#post-recommendation)
+- [Netlify CMS ready](https://github.com/thiagorossener/PaceyC-template/wiki/Features#netlify-cms-ready)
+- [Translations](https://github.com/thiagorossener/PaceyC-template/wiki/setup#translations) **new!**
+- [Math Expressions](https://github.com/thiagorossener/PaceyC-template/wiki/Features#math-expressions) *(optional)* **new!**
 
 ## SEO
 
@@ -51,13 +51,13 @@ A theme for Jekyll inspired by Netflix panel for who loves movies and series and
 In the case you're installing to existing Jekyll project, add this line to your project's `Gemfile`:
 
 ```
-gem "jekflix"
+gem "PaceyC"
 ```
 
 Add this line to your project's `_config.yml`:
 
 ```
-theme: jekflix
+theme: PaceyC
 ```
 
 And then run:
@@ -69,7 +69,7 @@ $ bundle
 Or install it yourself as:
 
 ```
-$ gem install jekflix
+$ gem install PaceyC
 ```
 
 ### Theme Colors
@@ -86,20 +86,20 @@ $accentDark: #ffffff;
 $lightGray: #f2f2f2;
 $texts: #333333;
 
-@import "jekflix";
+@import "PaceyC";
 ```
 
 Modify the variables above to change your theme colors.
 
 ### Site configuration
 
-Below are some properties you can change in your project `_config.yml`, check the [documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) for more details.
+Below are some properties you can change in your project `_config.yml`, check the [documentation](https://github.com/thiagorossener/PaceyC-template/wiki/settings) for more details.
 
 ```
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: PaceyC
+title: PaceyC | A blog theme for Jekyll
+description: PaceyC is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
   - template
@@ -185,13 +185,13 @@ plugins:
 
 In the case you're cloning this repo, follow those instructions:
 
-- [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
-- [Installing template](https://github.com/thiagorossener/jekflix-template/wiki/setup#installing-template)
-- [Running local](https://github.com/thiagorossener/jekflix-template/wiki/setup#running-local)
+- [Environment](https://github.com/thiagorossener/PaceyC-template/wiki/setup#environment)
+- [Installing template](https://github.com/thiagorossener/PaceyC-template/wiki/setup#installing-template)
+- [Running local](https://github.com/thiagorossener/PaceyC-template/wiki/setup#running-local)
 
 ### Customization
 
-See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize layout, titles, social media and more.
+See the [settings documentation](https://github.com/thiagorossener/PaceyC-template/wiki/settings) to customize layout, titles, social media and more.
 
 ### Theme
 
@@ -205,9 +205,9 @@ To see how your website is going to look like when you deploy it, run `bundle ex
 
 ## Posts
 
-Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) to create posts.
+Use the [Front Matter properties](https://github.com/thiagorossener/PaceyC-template/wiki/post#front-matter-properties) to create posts.
 
-> **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post) to generate posts automatically.
+> **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/PaceyC-template/wiki/post#creating-a-post) to generate posts automatically.
 
 ## Release notes
 
@@ -238,17 +238,17 @@ Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-temp
 - Optimized to support disabled JS
 
 ### v2.0.0
-- Added optional [sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar)
-- Added optional [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/features#featured-post)
-- Added optional ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/features#before-you-go-modal)
-- Added optional [post pagination](https://github.com/thiagorossener/jekflix-template/wiki/features#paginated-posts)
-- Added [post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/features#post-recommendation)
+- Added optional [sidebar](https://github.com/thiagorossener/PaceyC-template/wiki/Features#posts-sidebar)
+- Added optional [Featured post](https://github.com/thiagorossener/PaceyC-template/wiki/features#featured-post)
+- Added optional ["Before you go" modal](https://github.com/thiagorossener/PaceyC-template/wiki/features#before-you-go-modal)
+- Added optional [post pagination](https://github.com/thiagorossener/PaceyC-template/wiki/features#paginated-posts)
+- Added [post recommendation](https://github.com/thiagorossener/PaceyC-template/wiki/features#post-recommendation)
 - Added meta keywords to improve SEO
 - Added JSON-LD to improve SEO
-- Changed pagination to be [optional](https://github.com/thiagorossener/jekflix-template/wiki/features#home-page-pagination)
-- Improved [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/features#tags-page)
-- Cleaned up and improved [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties)
-- Set up [Netlify CMS](https://github.com/thiagorossener/jekflix-template/wiki/features#netlify-cms-ready)
+- Changed pagination to be [optional](https://github.com/thiagorossener/PaceyC-template/wiki/features#home-page-pagination)
+- Improved [Tags page](https://github.com/thiagorossener/PaceyC-template/wiki/features#tags-page)
+- Cleaned up and improved [Front Matter properties](https://github.com/thiagorossener/PaceyC-template/wiki/post#front-matter-properties)
+- Set up [Netlify CMS](https://github.com/thiagorossener/PaceyC-template/wiki/features#netlify-cms-ready)
 - Improved customization settings
 - Minor design updates
 
@@ -261,7 +261,7 @@ Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-temp
 
 ## Questions?
 
-File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
+File a [GitHub issue](https://github.com/thiagorossener/PaceyC-template/issues/new) please.
 
 ## Donation
 
@@ -275,4 +275,4 @@ Did you like my work? Buy me a beer 😁🍺
 
 ## License
 
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+*PaceyC Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/PaceyC-template/blob/master/LICENSE) file for more info.
